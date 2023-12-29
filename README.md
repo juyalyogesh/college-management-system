@@ -25,5 +25,8 @@ I have created a college management system project in which I have used both fro
  * Student Pannel
       * check all subject lecturer.
       * check all subject Question Paper.
-      * Check Updates. 
-   
+      * Check Updates.
+        
+ <h2>Screenshot Project</h2>
+
+![Screenshot (484)](https://github.com/juyalyogesh/college-management-system/assets/140688498/f9fb2a17-14de-4ccb-9a46-b2e942c98548)
