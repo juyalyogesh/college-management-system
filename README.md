@@ -21,7 +21,7 @@ I have created a college management system project in which I have used both fro
       * Upload Question Paper of subject.
       * Update of Subject.  
      
- * Teacher Pannel
+ * Student Pannel
       * check all subject lecturer.
       * check all subject Question Paper.
       * Check Updates. 
