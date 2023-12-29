@@ -9,7 +9,7 @@ I have created a college management system project in which I have used both fro
       * Students Management.
       * Faculties Management. 
   
-## Pannel Details !
+<h2>Pannel Details</h2>
   
  * Admin Pannel
       * Add and Remove Teahers.
