@@ -10,11 +10,10 @@ I have created a college management system project in which I have used both fro
   
 #Pannel Details
   
-* Admin Pannel
-      * Add and Remove Teahers.
-      * Add and Remove Students.
-      * Check Teacher And Student Status.  
-      * Website Updates.
+ * Teacher Pannel
+      * Upload lecturer of subject.
+      * Upload Question Paper of subject.
+      * Update of Subject. 
 
  * Teacher Pannel
       * Upload lecturer of subject.
